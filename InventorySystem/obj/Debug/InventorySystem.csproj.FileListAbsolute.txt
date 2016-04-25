@@ -1,0 +1,10 @@
+F:\Documents\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\Documents\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+F:\Documents\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+F:\Documents\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
